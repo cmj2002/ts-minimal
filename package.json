@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Minimal typescript template for bug reproduction.",
   "main": "main.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "prestart": "npm run build",
